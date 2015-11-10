@@ -4,6 +4,7 @@ Created using Visual Studio C++ 2010 Express on Windows 10.
 
 Steps to create:
 
+```
 1) New Project -> Win32 Project. (non-empty)
 2) Add source js_engine.cpp, js_engine.h
 3) In Source Files -> sample_win32.cpp
@@ -16,6 +17,7 @@ Steps to create:
       ..\..\jxcore-dev\Release
     Linker -> Input -> Additional Dependencies
       jx.lib
+```
 
 Running the compiled program creates a file "log.txt". Contents are:
 
