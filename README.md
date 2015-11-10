@@ -22,10 +22,14 @@ Steps to create:
 Running the compiled program creates a file "log.txt". Contents are:
 
 -------------
+```
 count 0 msg b
+```
 
 Expected:
 
 --------------
+```
 count 0 msg a
 count 1 msg b
+```
